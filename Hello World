@@ -1,0 +1,3 @@
+const words = {firstString:"hello",secondString:"world"}
+
+console.log(words.firstString + "" + words.secondString + "!");
